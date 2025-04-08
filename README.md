@@ -1,15 +1,15 @@
-# Welcome to my profile!
-**ML Data Scientist**  
+# Gabriel Tucker  
+**Machine Learning Data Scientist | Cognitive Modeling Researcher | Software Engineer**  
+
 [![Email](https://img.shields.io/badge/Email-gabeqtucker%40gmail.com-red)](mailto:gabeqtucker@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/gabetucker2)
 [![GitHub](https://img.shields.io/github/followers/gabetucker2?label=Follow&style=social)](https://github.com/gabetucker2)
-
 
 ## GitHub Highlights  
 
 ### Featured Projects  
 
-**[⭐ GoStack](https://github.com/gabetucker2/gostack)**  
+**⭐ [GoStack](https://github.com/gabetucker2/gostack)**  
 Modular Go library featuring 648 tests and 55 parametric functions. Enables expressive, pointer-safe, shape-aware, and callback-driven pipelines.  
 ![Go](https://img.shields.io/badge/Built%20with-Go-00ADD8?style=flat-square&logo=go)
 

@@ -16,11 +16,3 @@
 **Frameworks:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-
-## GitHub Highlights  
-
-### Featured Projects  
-
-**⭐ [GoStack](https://github.com/gabetucker2/gostack)**  
-Modular Go library featuring 648 tests and 55 parametric functions. Enables expressive, pointer-safe, shape-aware, and callback-driven pipelines.  
-![Go](https://img.shields.io/badge/Built%20with-Go-00ADD8?style=flat-square&logo=go)

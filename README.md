@@ -1,3 +1,5 @@
+**Machine Learning Data Scientist | Cognitive Modeling Researcher | Software Engineer**
+
 **Contact:**  
 [![Email](https://img.shields.io/badge/Email-gabeqtucker%40gmail.com-red)](mailto:gabeqtucker@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/gabetucker2)

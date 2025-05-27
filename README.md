@@ -26,7 +26,6 @@
 [View publication](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13054/130540N/Comparison-of-cognitively-inspired-salience-and-feature-importance-techniques-in/10.1117/12.3013842.short)
 
 **Mathematical Psychology Conference (MathPsych)** — *Oral Presentation, Amsterdam (2023)*  
-[View presentation](https://docs.google.com/presentation/d/1OHfS00CeBYvg7Eyegfa3RReD0nadR9lX/edit?usp=sharing)
 
 **Psychonomic Society Annual Meeting** — *Poster Presentation, Boston (2022)*  
 [View poster](https://drive.google.com/file/d/1o3FboZvi6r-ayxoPuptMFg0Jn2W_B_jM/view?usp=sharing)

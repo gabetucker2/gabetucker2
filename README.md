@@ -24,9 +24,9 @@
 **Comparison of Cognitively-Inspired Salience and Feature Importance Techniques** — *Proceedings of SPIE 13054 (2024)*  
 [View publication](https://www.researchgate.net/publication/381267815_Comparison_of_cognitively-inspired_salience_and_feature_importance_techniques_in_intrusion_detection_datasets)
 
-**Mathematical Psychology Conference (MathPsych)** — *Oral Presentation, Amsterdam (2023)*  
+**Mathematical Psychology Conference (MathPsych)** — *Oral Presentation, Amsterdam, NH (2023)*  
 
-**Psychonomic Society Annual Meeting** — *Poster Presentation, Boston (2022)*  
+**Psychonomic Society Annual Meeting** — *Poster Presentation, Boston, MA (2022)*  
 [View poster](https://drive.google.com/file/d/1o3FboZvi6r-ayxoPuptMFg0Jn2W_B_jM/view?usp=sharing)
 
 *See my portfolio, which includes some projects in my [resume](https://drive.google.com/file/d/1tcLU0tNDcXY0ZIGny4DfyXXTYivTDWC_/view?usp=sharing), pinned below:*

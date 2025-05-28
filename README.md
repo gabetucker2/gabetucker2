@@ -29,4 +29,4 @@
 **Psychonomic Society Annual Meeting** — *Poster Presentation, Boston (2022)*  
 [View poster](https://drive.google.com/file/d/1o3FboZvi6r-ayxoPuptMFg0Jn2W_B_jM/view?usp=sharing)
 
-*See my portfolio, which includes some projects in my [resume]([https://docs.google.com/document/d/1OI9eXBw2VUisb-2VmxRCGfQhUekZkavW/edit?usp=sharing&ouid=107977697608844763611&rtpof=true&sd=true](https://drive.google.com/file/d/1tcLU0tNDcXY0ZIGny4DfyXXTYivTDWC_/view?usp=sharing)), pinned below:*
+*See my portfolio, which includes some projects in my [resume](https://drive.google.com/file/d/1tcLU0tNDcXY0ZIGny4DfyXXTYivTDWC_/view?usp=sharing), pinned below:*

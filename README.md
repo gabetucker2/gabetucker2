@@ -22,7 +22,7 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 
 **Comparison of Cognitively-Inspired Salience and Feature Importance Techniques** — *Proceedings of SPIE 13054 (2024)*  
-[View publication](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13054/130540N/Comparison-of-cognitively-inspired-salience-and-feature-importance-techniques-in/10.1117/12.3013842.short)
+[View publication](https://www.researchgate.net/publication/381267815_Comparison_of_cognitively-inspired_salience_and_feature_importance_techniques_in_intrusion_detection_datasets)
 
 **Mathematical Psychology Conference (MathPsych)** — *Oral Presentation, Amsterdam (2023)*  
 

@@ -1,4 +1,4 @@
-**Machine Learning Data Scientist**
+**Machine Learning Engineer**
 
 **Contact:**  
 [![Email](https://img.shields.io/badge/Email-gabeqtucker%40gmail.com-red)](mailto:gabeqtucker@gmail.com)

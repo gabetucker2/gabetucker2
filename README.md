@@ -1,10 +1,5 @@
 **Machine Learning Engineer**
 
-**Contact:**  
-[![Email](https://img.shields.io/badge/Email-gabeqtucker%40gmail.com-red)](mailto:gabeqtucker@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/gabetucker2)
-[![GitHub](https://img.shields.io/github/followers/gabetucker2?label=Follow&style=social)](https://github.com/gabetucker2)  
-
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)

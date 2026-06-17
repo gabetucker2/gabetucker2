@@ -21,12 +21,4 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 
-**Comparison of Cognitively-Inspired Salience and Feature Importance Techniques** — *Proceedings of SPIE 13054 (2024)*  
-[View publication](https://www.researchgate.net/publication/381267815_Comparison_of_cognitively-inspired_salience_and_feature_importance_techniques_in_intrusion_detection_datasets)
-
-**Mathematical Psychology Conference (MathPsych)** — *Oral Presentation, Amsterdam, NH (2023)*  
-
-**Psychonomic Society Annual Meeting** — *Poster Presentation, Boston, MA (2022)*  
-[View poster](https://drive.google.com/file/d/1o3FboZvi6r-ayxoPuptMFg0Jn2W_B_jM/view?usp=sharing)
-
 *See my portfolio pinned below:*
